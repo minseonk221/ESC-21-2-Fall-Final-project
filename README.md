@@ -4,7 +4,7 @@
 The dataset is about bankruptcy prediction of Polish companies.
 
 `Attribute Information`:
-
+|....|....|....|
 |X1 |net profit / total assets|
 |X2 |total liabilities / total assets|
 |X3 |working capital / total assets|
@@ -70,3 +70,4 @@ The dataset is about bankruptcy prediction of Polish companies.
 |X63 |sales / short-term liabilities|
 |X64| sales / fixed assets|
 |X64| sales / fixed assets|
+|...|....|....|
